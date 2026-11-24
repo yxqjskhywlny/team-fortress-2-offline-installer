@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | OS X version Leopard 10.5.8 and above |
+| **Processor** | Min: 1.7 GHz Processor or better / Rec: Pentium 4 processor (3.0GHz, or better) | 1.7 GHz Processor or better |
+| **Memory** | Min: 512 MB RAM / Rec: 1 GB RAM | 1 GB RAM |
+| **Graphics** | — | NVIDIA GeForce 8 or higher, ATI X1600 or higher, Intel … |
+| **DirectX** | Min: Version 8.1 / Rec: Version 9.0c | Version 8.1 |
+| **Storage** | 15 GB available space | 15 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Min: Windows® 7 (32/64-bit)/Vista/XP / Rec: Windows® 7 (32/64-bit) | Windows® 7 (32/64-bit)/Vista/XP |
 
 ---
 
